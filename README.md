@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Trendx.<br>👯 A frontend Developer.<br>🌱 I’m currently learning Backend programming with PHP<br>       curious about the concept of machine and deep learning. <br>⚡ Experienced with frameworks like React and React Native.<br>💬 Excited with coding and Hardworking
+🔭  worked with Trendx.<br>👯 A frontend Developer.<br>🌱 I’m currently learning Backend programming with PHP<br>       curious about the concept of machine and deep learning. <br>⚡ Experienced with frameworks like React and React Native.<br>💬 Excited with coding and Hardworking
 
 
 ## 🌐 Socials:
